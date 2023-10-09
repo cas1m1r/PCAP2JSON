@@ -1,5 +1,5 @@
-from pcapper import CAP
-
+from decoder.capper import CAP
+import sys, os
 
 def get_dest_ips(events):
     dest = []
